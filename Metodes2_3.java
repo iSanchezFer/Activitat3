@@ -1,7 +1,7 @@
 package Metodes2_IkerSanchez;
-
+#EDICIO DEL DOCUMENT1
 import java.util.Scanner;
-
+#EDICIO DOCUMENT 2.0
 /**
  * @author iker
  *
