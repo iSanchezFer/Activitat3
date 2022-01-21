@@ -1,5 +1,5 @@
 package Metodes2_IkerSanchez;
-#EDICIO DEL DOCUMENT1
+#EDICIO DEL DOCUMENT1 EDIT 2
 import java.util.Scanner;
 #EDICIO DOCUMENT 2.0
 /**
