@@ -1,5 +1,5 @@
 package Metodes2_IkerSanchez;
-
+#EDICIO DOCUMENT 2.0
 import java.util.Scanner;
 
 /**
